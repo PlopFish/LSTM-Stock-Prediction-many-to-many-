@@ -2,6 +2,8 @@
 Read 30 days stock data, and then Predict after 5 days close price.
 
 
+
+
 ﻿1. 각 폴더 설명 / each folder's explanation
 
 'many-to-many' 폴더는 30일간의 데이터를 읽어서 5일 후의 종가를 예측하는 코드입니다.
@@ -9,6 +11,8 @@ Read 30 days stock data, and then Predict after 5 days close price.
 
 'many-to-many' folder : read 30 day's data and predict after 5 days close price.
 'many-to-one' foler : read 30 day's data and predict right after 1 day close price.
+
+
 
 
 
@@ -29,6 +33,7 @@ many-to-many 폴더에서 03_01.py 같은 파일을 보시면, 마지막 부분�
 이 부분을 경험적으로 습득하기까지 오래 걸렸기 때문에, 혹시나 다른 분들도 여기서 막힐까봐 이렇게 참고할 점을 올려둡니다.
 
 
+
 [google translate]
 When executing the code in 'many to one', make sure that the batch size and length of the data set are divided without leaving.
 For example, the data is 1800 and the batch size is 30, so there are no others.
@@ -47,6 +52,8 @@ Because it took me a long time to learn this part of the book, I put in a list o
 
 
 
+
+
 3. 데이터 얻는 팁 / this tip is about how to get stock's data by hts (in korea company's).
 
 증권사 API를 이용하여 데이터를 받아오는 방법도 있지만, 모르는 분들은 그걸 구현하는게 시간이 많이 걸릴 수가 있습니다.
@@ -61,6 +68,7 @@ Because it took me a long time to learn this part of the book, I put in a list o
 바로 엑셀로 저장하면 인덱스가 없거나 깨져서 나올 수도 있습니다.
 
 그리고 xls 파일로 읽는게 아니고 csv파일을 읽는 것이기 때문에, 변환해야 한다는 점 기억해주십시오.
+
 
 
 
