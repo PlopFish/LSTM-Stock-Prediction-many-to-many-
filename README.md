@@ -33,7 +33,6 @@ many-to-many 폴더에서 03_01.py 같은 파일을 보시면, 마지막 부분�
 이 부분을 경험적으로 습득하기까지 오래 걸렸기 때문에, 혹시나 다른 분들도 여기서 막힐까봐 이렇게 참고할 점을 올려둡니다.
 
 
-
 [google translate]
 When executing the code in 'many to one', make sure that the batch size and length of the data set are divided without leaving.
 For example, the data is 1800 and the batch size is 30, so there are no others.
@@ -48,8 +47,6 @@ The reason why you have to erase it is because in the for statement, the value I
 This is why you delete it by [1:30], excluding [0] at the last part of y's to avoid overlap.
 
 Because it took me a long time to learn this part of the book, I put in a list of things to keep in mind that others might be stuck here.
-
-
 
 
 
@@ -72,8 +69,6 @@ Because it took me a long time to learn this part of the book, I put in a list o
 
 
 
-
-
 4. 연락 / contact
 
 오류가 있거나 질문이 있으시다면, http://brojang.tistory.com/ 의 [머신러닝] 카테고리에 있는 글에 댓글을 남겨주시면 됩니다.
@@ -81,6 +76,8 @@ Because it took me a long time to learn this part of the book, I put in a list o
  
 ⁭if you have any question, send email to 'disk1605@naver.com'.
 I will comment it in 2 days. so feel free to ask about it.
+
+
 
 티스토리 : http://brojang.tistory.com/24
 Github : https://github.com/PlopFish/LSTM-Stock-Prediction-many-to-many-
