@@ -77,4 +77,3 @@ I will comment it in 2 days. so feel free to ask about it.
 
 
 made by Min Hyeok, Jang / Yeongam High School (graduate)
-project start: 2017-11 / project end : 2018-05
