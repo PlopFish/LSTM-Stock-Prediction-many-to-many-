@@ -84,4 +84,3 @@ Github : https://github.com/PlopFish/LSTM-Stock-Prediction-many-to-many-
 파이스탁 네이버 카페 : https://cafe.naver.com/pystock/3397
 
 made by Min Hyeok, Jang / Yeongam High School (graduate)
-project start: 2017-11 / project end : 2018-05
